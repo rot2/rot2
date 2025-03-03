@@ -25,9 +25,4 @@ Hi! I’m Boran, a Computer Programming student with software development experi
 
 ---
 
-## 📜 License
-This profile is licensed under the [MIT License](LICENSE). For more details, refer to the `LICENSE` file.
-
----
-
 **Let’s collaborate on software projects—check out my work and connect!**
