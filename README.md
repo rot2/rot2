@@ -16,21 +16,12 @@ Hi! I’m Boran, a Computer Programming student with software development experi
 | ![Web Developer](https://img.shields.io/badge/Web%20Developer-Python%2FDjango%2FRuby%20on%20Rails-lightblue?style=flat-square&logo=python) | Web dev with Python/Django/Ruby on Rails |
 | ![Cybersecurity Specialist](https://img.shields.io/badge/Cybersecurity%20Specialist-Kali%20Linux%2FMetasploit-red?style=flat-square&logo=linux) | Expertise in Kali Linux & Metasploit  |
 | ![Database Specialist](https://img.shields.io/badge/Database%20Specialist-SQL-green?style=flat-square&logo=postgresql) | Database management with SQL          |
-| ![Computer Programming Student](https://img.shields.io/badge/Student-Computer%20Programming-blue?style=flat-square&logo=education) | Currently studying Computer Programming |
 
 ---
 
 ## 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rot2&layout=compact&theme=dracula)
-
----
-
-## 🌐 Contact
-- **Email**: [boran@example.com](mailto:boran@example.com) (Replace with your actual email)
-- **LinkedIn**: [linkedin.com/in/rot2](https://linkedin.com/in/rot2) (Replace with your LinkedIn URL)
-- **Twitter**: [@rot2](https://twitter.com/rot2) (Replace with your Twitter URL)
-- **Reddit**: [u/LuN1Zz](https://reddit.com/u/LuN1Zz) (Replace with your Reddit URL)
 
 ---
 
