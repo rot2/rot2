@@ -5,26 +5,6 @@
 ## 🌟 About Me
 Hi! I’m Boran, a Computer Programming student with software development experience since 2014. I enjoy working on game development, web applications, and cybersecurity, focusing on practical and effective solutions.
 
----
-
-Anladım! Verdiğiniz geri bildirime göre, README.md dosyasındaki "Achievements & Badges" bölümünü daha düzenli ve anlamlı bir şekilde yeniden düzenleyeceğim. Backend, Full Stack ve Web Developer badge’lerini birleştirip, bu alanları daha net ve organize bir şekilde gruplayacağım. Attığınız görseldeki (Can Değer profilindeki gibi) karanlık temaya uygun, sade, profesyonel ve badge odaklı yapıyı koruyacağım. Yalnızca İngilizce olarak, doğal ve abartısız bir dil kullanacağım.
-
-Aşağıda, "Achievements & Badges" bölümünü güncelleyerek daha düzenli bir yapı oluşturdum. Diğer bölümleri (About Me, GitHub Stats, Contact, License) aynı bıraktım, ancak badge’leri mantıklı bir şekilde gruplandırdım ve tekrarları azalttım.
-
-README.md (Yalnızca İngilizce, Düzenlenmiş ve Sade)
-markdown
-
-Collapse
-
-Metni gizle
-
-Kopyala
-# rot2 👨‍💻
-
----
-
-## 🌟 About Me
-Hi! I’m Boran, a Computer Programming student with software development experience since 2014. I enjoy working on game development, web applications, and cybersecurity, focusing on practical and effective solutions.
 
 ---
 
