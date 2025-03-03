@@ -15,7 +15,6 @@ Hi! I’m Boran, a Computer Programming student with software development experi
 ![Backend Developer](https://img.shields.io/badge/Backend%20Developer-.NET%20Core-orange)  
 ![Web Developer](https://img.shields.io/badge/Web%20Developer-Python%2FDjango%2FRuby%20on%20Rails-lightblue)  
 ![Cybersecurity Specialist](https://img.shields.io/badge/Cybersecurity%20Specialist-Kali%20Linux%2FMetasploit-red)  
-![Low-Level Programmer](https://img.shields.io/badge/Low-Level%20Programmer-Assembly%2FC%2FC%2B%2B-darkgray)  
 ![Database Specialist](https://img.shields.io/badge/Database%20Specialist-SQL-green)  
 ![Computer Programming Student](https://img.shields.io/badge/Student-Computer%20Programming-blue)
 
