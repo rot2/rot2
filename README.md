@@ -23,17 +23,7 @@
 
 ---
 
-## 🌐 Contact
-- **Email**: [boran@example.com](mailto:boran@example.com) (Replace with your actual email)
-- **LinkedIn**: [linkedin.com/in/rot2](https://linkedin.com/in/rot2) (Replace with your LinkedIn URL)
-- **Twitter**: [@rot2](https://twitter.com/rot2) (Replace with your Twitter URL)
-- **Reddit**: [u/LuN1Zz](https://reddit.com/u/LuN1Zz) (Replace with your Reddit URL)
-
----
-
 ## 📜 License
 This profile is licensed under the [MIT License](LICENSE). For more details, refer to the `LICENSE` file.
 
 ---
-
-**Join me in building innovative software solutions—let’s create something amazing together!**
