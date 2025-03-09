@@ -13,7 +13,7 @@ Hi! I’m Boran, a Computer Programming student with software development experi
 |--------------------------------------------|--------------------------------------|
 | ![Game Developer](https://img.shields.io/badge/Game%20Developer-Unity-yellow?style=flat-square&logo=unity) | Expertise in Unity game development  |
 | ![Backend Developer](https://img.shields.io/badge/Backend%20Developer-.NET%20Core-orange?style=flat-square&logo=dotnet) | Backend development with C# .NET Core    |
-| ![Ruby](https://img.shields.io/badge/Ruby-Expert-red?style=flat&logo=ruby&logoColor=white)  | Ruby
+| ![Ruby](https://img.shields.io/badge/Ruby-Expert-red?style=flat&logo=ruby&logoColor=white) ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-Advanced-blue?style=flat&logo=ruby-on-rails&logoColor=white)  | Ruby with Ruby On Rails
 | ![Cybersecurity Specialist](https://img.shields.io/badge/Cybersecurity%20Specialist-Kali%20Linux%2FMetasploit-red?style=flat-square&logo=linux) | Expertise in Kali Linux  |
 | ![Database Specialist](https://img.shields.io/badge/Database%20Specialist-SQL-green?style=flat-square&logo=postgresql) | Database management with SQL          |
 
