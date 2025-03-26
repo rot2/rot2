@@ -2,12 +2,6 @@
 
 ---
 
-## 🌟 About Me
-Hi! I’m Boran, a Computer Programming student with software development experience since 2014. I enjoy working on game development, web applications, and cybersecurity, focusing on practical and effective solutions.
-
-
----
-
 ## 🎯 Achievements & Badges
 | Badge                                      | Description                          |
 |--------------------------------------------|--------------------------------------|
